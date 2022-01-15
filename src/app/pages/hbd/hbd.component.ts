@@ -10,11 +10,11 @@ export class HbdComponent implements OnInit {
 
   playlist = [
     {
-      title: '이소민 생축',
+      title: '경희 생축!!🎈🎈',
       link: 'https://drive.google.com/u/0/uc?id=1xpxXlFhSLq9-bYoCcvQJH8WXW_kc9Md1&export=download'
     },
     {
-      title: '하 힘들어',
+      title: 'HBD~~~',
       link: 'https://funksyou.com/fileDownload/Songs/128/13091.mp3'
     }
   ];

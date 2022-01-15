@@ -1,6 +1,7 @@
 {
   "name": "hbddd",
   "version": "0.0.0",
+  "homepage": "http://UraBirthDay.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -48,5 +49,7 @@
     "ts-node": "~8.3.0",
     "tslint": "~5.18.0",
     "typescript": "~3.7.5"
+
   }
+  
 }
